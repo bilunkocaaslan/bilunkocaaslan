@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNkNjYwNTMxZDUxNTBjZjM4MTMzMzk4Y2NjMjYyZTE1ODkxYTIzYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="320" />
 
 ## I'm a Full Stack Web Developer 🚀!
 - 🔭 I’m currently working programming.
@@ -44,6 +44,7 @@ I'm working on a software development for our family business 💻, I am writing
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+<br />
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][bootstrap]
 [<img align="left" alt="Chrome Extension" width="26px" src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/chrome-extension/chrome-extension.png"/>][chrome]
 
@@ -54,12 +55,25 @@ I'm working on a software development for our family business 💻, I am writing
 
 ### Stats 🔥
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilunkocaaslan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-  <img height="180em" align="left" src="https://streak-stats.demolab.com/?user=bilunkocaaslan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="mukireus"/>
-  
-</a>
-<br />
-<br />
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bilunkocaaslan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bilunkocaaslan&theme=radical&hide_border=true&background=000000"/>
+  </a>
+</p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bilunkocaaslan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bilunkocaaslan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
+</p>
+<br/>
+<br/>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        Happy Coding!
+    </p>
+</samp>
 
 [instagram]: https://www.instagram.com/bkocaaslan0
 [linkedin]: https://www.linkedin.com/in/bilun-kocaaslan-b239a0178/
