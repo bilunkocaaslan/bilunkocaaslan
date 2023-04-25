@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World I'm Bilun 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/bilunkocaaslan)](https://github.com/bilunkocaaslan) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bkocaaslan0/)](https://www.instagram.com/bkocaaslan0/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-757575?style=flat-quare&labelColor=757575&logo=Gmail&logoColor=white&link=link)](link) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-FF9800?style=flat-quare&labelColor=FF9800&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilun-kocaaslan-b239a0178/)](https://www.linkedin.com/in/bilun-kocaaslan-b239a0178/)
 
 <!--
 **bilunkocaaslan/bilunkocaaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Typescript & Golang
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=bilunkocaaslan&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilunkocaaslan&show_icons=true&theme=radical)
