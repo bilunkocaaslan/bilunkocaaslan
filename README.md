@@ -6,10 +6,9 @@
 <br>
 
 ## I'm a Full Stack Web Developer 🚀!
-- 🔭 I’m currently working programming.
+- 🔭 I’m currently working on HotelRunner.
 - 🌱 I’m currently learning Typescript & Golang 
 - 👯 I’m looking to collaborate with other web developer 👩‍💻
-- 🤔 I’m looking for help with finding a new job
 - 🥅 2023 Goals: Developing an app to be heard in the world 🌎
 - ⚡ Fun fact: I love to swim 🏊‍♀️
 ## ⏲ What i am doing now:
